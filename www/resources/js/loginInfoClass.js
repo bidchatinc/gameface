@@ -1,0 +1,1 @@
+Ext.define("ApplicationLoginInfoClass",{statics:{isLoggedIn:false,logInSource:"none",email:"none",firstName:"",lastName:""},config:{},});
